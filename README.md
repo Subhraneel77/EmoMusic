@@ -55,6 +55,8 @@ D] <img width="1404" alt="Expression detection" src="https://github.com/Subhrane
 
 E] <img width="1424" alt="Emotion Detection 2" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/d2e4930e-e482-47f0-bca8-d31ed7a5293b">
 
+**User-Specific Outcome in any Language**
+
 F] <img width="1113" alt="Outcome" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/0bad88ac-1583-46c9-8410-75a646c36336">
 
 
