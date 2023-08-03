@@ -42,3 +42,21 @@ The Emotion-Based Music Recommender Website utilizes a diverse technology stack,
 **Conclusion:**
 
 The Emotion-Based Music Recommender Website combines AI-driven emotion recognition and music recommendation techniques to deliver a cutting-edge music platform that caters to users' emotional needs. It offers a unique and personalized experience, making it a valuable addition to the world of music streaming platforms and providing users with a novel way to connect with their emotions through music.
+
+## STEPS PICS ::
+
+A] <img width="1437" alt="EmoSong" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/71f18e88-4806-4627-adb4-214ab72a677e">
+
+B] <img width="1424" alt="Process 2" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/cba42ccf-5f14-4cee-9e28-86deeea5079a">
+
+C] <img width="864" alt="Terminal" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/868f9bbb-b188-4fc9-8918-a5129d05c8f5">
+
+D] <img width="1404" alt="Expression detection" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/76708f06-4ef1-4e2d-b041-20e17853817f">
+
+E] <img width="1424" alt="Emotion Detection 2" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/d2e4930e-e482-47f0-bca8-d31ed7a5293b">
+
+F] <img width="1113" alt="Outcome" src="https://github.com/Subhraneel77/EmoMusic/assets/75981967/0bad88ac-1583-46c9-8410-75a646c36336">
+
+
+
+
